@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2><code>👾🌱🐈‍⬛</code></h2>
 
-<!--
-**peachlarsson/peachlarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F78300&width=435&height=70&lines=hello+world!+i'm+peach+%F0%9F%8D%91)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+📍 Gothenburg
+👩🏻‍💻 IT consultant
+🚗 Currently working in the automotive industry
+💬 Swedish and English - fluent | Thai - native | Spanish - just for fun
+🐱 i love cats <small><small>and coding</small></small>
+</pre>
