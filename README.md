@@ -9,5 +9,5 @@
 👩🏻‍💻 IT consultant
 🚗 Currently working in the automotive industry
 💬 Swedish and English - fluent | Thai - native | Spanish - just for fun
-🐱 i love cats <small><small>and coding</small></small>
+🐱 i love cats ᵃⁿᵈ ᶜᵒᵈᶦⁿᵍ
 </pre>
